@@ -1,0 +1,94 @@
+#top-menu li {
+    width: 50%;
+    display: inline-block;
+    list-style-type: none;
+    padding: 30px;
+    background-color: darkslategrey;
+    
+} 
+
+ul{
+    display: flex;
+    color: darkslategray;
+    padding-top: 1vh;
+    justify-content: center;
+    list-style-type: none;
+
+
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#page-wrapper {
+    width: 100%;
+}
+
+
+#top-menu .container {
+    background-color: rgb(49, 45, 45);
+    justify-content: center;
+    display: flex;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#banner 
+{background-color: lightblue;
+    justify-content: center;
+    display: flex;
+}
+
+#about-me {
+    background-color: lightsalmon;
+    justify-content: center;
+    display: flex;
+}
+#my-portfolio {
+    background-color: yellowgreen;
+    justify-content: center;
+    display: flex;
+}
+#work-experience {
+    background-color: teal;
+    justify-content: center;
+    display: flex;
+    
+}
+.container{
+    background-color: #cacaca;
+    padding: 20px 10px;
+    margin: 120px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    border: 1px solid black;
+    width: 500px;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+    font-size: 50px;
+    padding: 50px;
+    margin: 10px;
+    box-shadow: 10px 10px 10px black;
+
+}
+#contact-me {
+    background-color:red;
+    justify-content: center;
+    display: flex;
+}
+#container {
+    background-color:dimgray;
+    justify-content: center;
+    display: flex;
+}
+#
